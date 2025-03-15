@@ -1,0 +1,1 @@
+ Test, test, sprawdza mi jak działa transkrypcja przy pomocy Pythona. Przed chwilą mówiłem wyraźnie, a teraz zaczynam mówić tak jak zazwyczaj mówię. Mówię trochę szybciej, mówię trochę za chwilę, będę urodził trochę wolniej. Tak jak teraz może trochę niej myraźnie będę otwierał usta. Trzeba to wszystko przetestować.
